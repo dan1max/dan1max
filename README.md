@@ -1,0 +1,4 @@
+- 👋 Hi, I’m dan1max, but you can call me Dani
+- 👀 I’m interested in learning to program, specifically learning about cybersecurity.
+- 🌱 I’m currently learning web development
+- 📫 To reach me just DM me or send an e-mail.
