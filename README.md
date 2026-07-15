@@ -9,10 +9,8 @@ I'm currently a Computer Science student, learning network engineering and cyber
 ![](https://streak-stats.demolab.com/?user=dan1max&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dan1max&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://komarev.com/ghpvc/?username=dan1max&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
