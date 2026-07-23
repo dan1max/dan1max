@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Howdy
 I'm currently a Computer Science student, learning network engineering and cybersecurity, specifically, cloud security.
 
 
